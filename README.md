@@ -1,6 +1,6 @@
 # first-repo
 
-TEST 
+github 테스트 해보기 
 
 ## Installation
 ```shell
